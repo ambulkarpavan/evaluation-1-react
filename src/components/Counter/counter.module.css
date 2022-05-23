@@ -1,0 +1,11 @@
+.counter {
+ margin-left: 50px;
+}
+.btn{
+  background-color: rgb(132, 132, 208);
+  margin-right: 10px;
+  margin-left: 10px;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+}
